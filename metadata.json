@@ -1,0 +1,8 @@
+{
+  "name": "Book My Sofa Repair - Chennai",
+  "description": "Book My Sofa Repair Chennai - Dedicated doorstep recliner sofa repair, electric motor replacement, pull cable fixing, and luxury leather reupholstery across Chennai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
